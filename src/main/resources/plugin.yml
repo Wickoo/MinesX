@@ -1,0 +1,11 @@
+name: MinesX
+version: ${project.version}
+main: com.github.wickoo.minesx.MinesX
+api-version: 1.15
+description: Plugin for management of mines
+commands:
+  minesx:
+    description: MinesX command
+    usage: /minesx <command>
+    aliases: [mines, mx]
+

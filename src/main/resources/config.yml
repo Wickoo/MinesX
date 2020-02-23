@@ -1,0 +1,11 @@
+###########################################
+#                                         #
+#            MINESX CONFIG                #
+#                                         #
+###########################################
+
+#GLOBAL MINE RESET EVENT
+mines:
+  - test
+  - test2
+reset-interval: 60

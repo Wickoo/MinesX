@@ -1,0 +1,24 @@
+test:
+  display-item: "iron_ore"
+  world: "world"
+  loc1: 0,60,0
+  loc2: 10,70,10
+  spawn-loc: 5,65,-5
+  reset-time: 60
+  blocks:
+    - stone:95
+    - diamond_ore:1
+    - iron_ore:2
+    - gold_ore:2
+test2:
+  display-item: "diamond_ore"
+  world: "world"
+  loc1: 0,60,0
+  loc2: 10,70,10
+  spawn-loc: 5,65,-5
+  reset-time: 60
+  blocks:
+    - cobblestone:95
+    - diamond_ore:1
+    - iron_ore:2
+    - gold_ore:2
